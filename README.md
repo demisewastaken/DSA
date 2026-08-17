@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/demisewastaken/DSA/tree/master/0011-container-with-most-water) |
 | [0817-linked-list-components](https://github.com/demisewastaken/DSA/tree/master/0817-linked-list-components) |
+| [1095-find-in-mountain-array](https://github.com/demisewastaken/DSA/tree/master/1095-find-in-mountain-array) |
 | [3903-smallest-stable-index-i](https://github.com/demisewastaken/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
@@ -59,4 +60,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/demisewastaken/DSA/tree/master/3903-smallest-stable-index-i) |
+## Binary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/demisewastaken/DSA/tree/master/1095-find-in-mountain-array) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/demisewastaken/DSA/tree/master/1095-find-in-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/demisewastaken/DSA/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
