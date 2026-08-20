@@ -94,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/demisewastaken/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/demisewastaken/DSA/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/demisewastaken/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
