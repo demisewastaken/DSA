@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/demisewastaken/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/demisewastaken/DSA/tree/master/0496-next-greater-element-i) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/demisewastaken/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Design
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/demisewastaken/DSA/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/demisewastaken/DSA/tree/master/0041-first-missing-positive) |
 | [0189-rotate-array](https://github.com/demisewastaken/DSA/tree/master/0189-rotate-array) |
+| [0496-next-greater-element-i](https://github.com/demisewastaken/DSA/tree/master/0496-next-greater-element-i) |
 | [0817-linked-list-components](https://github.com/demisewastaken/DSA/tree/master/0817-linked-list-components) |
 | [1095-find-in-mountain-array](https://github.com/demisewastaken/DSA/tree/master/1095-find-in-mountain-array) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/demisewastaken/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/demisewastaken/DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/demisewastaken/DSA/tree/master/0041-first-missing-positive) |
+| [0496-next-greater-element-i](https://github.com/demisewastaken/DSA/tree/master/0496-next-greater-element-i) |
 | [0817-linked-list-components](https://github.com/demisewastaken/DSA/tree/master/0817-linked-list-components) |
 ## Two Pointers
 |  |
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/demisewastaken/DSA/tree/master/0005-longest-palindromic-substring) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/demisewastaken/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
