@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/demisewastaken/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/demisewastaken/DSA/tree/master/0189-rotate-array) |
 | [0382-linked-list-random-node](https://github.com/demisewastaken/DSA/tree/master/0382-linked-list-random-node) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/demisewastaken/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |
