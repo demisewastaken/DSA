@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/demisewastaken/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0092-reverse-linked-list-ii](https://github.com/demisewastaken/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0382-linked-list-random-node](https://github.com/demisewastaken/DSA/tree/master/0382-linked-list-random-node) |
 | [0707-design-linked-list](https://github.com/demisewastaken/DSA/tree/master/0707-design-linked-list) |
 | [0817-linked-list-components](https://github.com/demisewastaken/DSA/tree/master/0817-linked-list-components) |
