@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/demisewastaken/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/demisewastaken/DSA/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/demisewastaken/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/demisewastaken/DSA/tree/master/0189-rotate-array) |
 | [0382-linked-list-random-node](https://github.com/demisewastaken/DSA/tree/master/0382-linked-list-random-node) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/demisewastaken/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/demisewastaken/DSA/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/demisewastaken/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/demisewastaken/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/demisewastaken/DSA/tree/master/0496-next-greater-element-i) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/demisewastaken/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/demisewastaken/DSA/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/demisewastaken/DSA/tree/master/0041-first-missing-positive) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/demisewastaken/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/demisewastaken/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/demisewastaken/DSA/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/demisewastaken/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/demisewastaken/DSA/tree/master/0560-subarray-sum-equals-k) |
