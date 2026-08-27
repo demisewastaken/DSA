@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/demisewastaken/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/demisewastaken/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/demisewastaken/DSA/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/demisewastaken/DSA/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/demisewastaken/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/demisewastaken/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0817-linked-list-components](https://github.com/demisewastaken/DSA/tree/master/0817-linked-list-components) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/demisewastaken/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/demisewastaken/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/demisewastaken/DSA/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/demisewastaken/DSA/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/demisewastaken/DSA/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/demisewastaken/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/demisewastaken/DSA/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
