@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/demisewastaken/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/demisewastaken/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/demisewastaken/DSA/tree/master/0092-reverse-linked-list-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/demisewastaken/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0382-linked-list-random-node](https://github.com/demisewastaken/DSA/tree/master/0382-linked-list-random-node) |
 | [0707-design-linked-list](https://github.com/demisewastaken/DSA/tree/master/0707-design-linked-list) |
 | [0817-linked-list-components](https://github.com/demisewastaken/DSA/tree/master/0817-linked-list-components) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/demisewastaken/DSA/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/demisewastaken/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/demisewastaken/DSA/tree/master/0041-first-missing-positive) |
+| [0160-intersection-of-two-linked-lists](https://github.com/demisewastaken/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/demisewastaken/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/demisewastaken/DSA/tree/master/0202-happy-number) |
 | [0496-next-greater-element-i](https://github.com/demisewastaken/DSA/tree/master/0496-next-greater-element-i) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/demisewastaken/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/demisewastaken/DSA/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/demisewastaken/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/demisewastaken/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/demisewastaken/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/demisewastaken/DSA/tree/master/0202-happy-number) |
 ## Greedy
