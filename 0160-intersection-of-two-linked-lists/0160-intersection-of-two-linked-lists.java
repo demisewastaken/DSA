@@ -9,29 +9,27 @@
  *     }
  * }
  */
-import java.util.HashMap;
+import java.util.HashSet;
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        HashMap<ListNode, Integer> map = new HashMap<>();
+        HashSet<ListNode> set = new HashSet<>();
 
         ListNode current = headA;
 
         while (current != null) {
-            map.put(current, current.val);
+            set.add(current);
             current = current.next;
         }
 
         current = headB;
 
         while (current != null) {
-            int temp = map.getOrDefault(current, -1);
-            if (temp != -1) {
+            if (set.contains(current)) {
                 return current;
             }
             current = current.next;
         }
+
         return null;
-
-
     }
 }
