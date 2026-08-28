@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/demisewastaken/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/demisewastaken/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/demisewastaken/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/demisewastaken/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/demisewastaken/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0382-linked-list-random-node](https://github.com/demisewastaken/DSA/tree/master/0382-linked-list-random-node) |
