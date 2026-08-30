@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/demisewastaken/DSA/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/demisewastaken/DSA/tree/master/0342-power-of-four) |
 | [0382-linked-list-random-node](https://github.com/demisewastaken/DSA/tree/master/0382-linked-list-random-node) |
+| [0877-stone-game](https://github.com/demisewastaken/DSA/tree/master/0877-stone-game) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/demisewastaken/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/demisewastaken/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/demisewastaken/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/demisewastaken/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0817-linked-list-components](https://github.com/demisewastaken/DSA/tree/master/0817-linked-list-components) |
+| [0877-stone-game](https://github.com/demisewastaken/DSA/tree/master/0877-stone-game) |
 | [1095-find-in-mountain-array](https://github.com/demisewastaken/DSA/tree/master/1095-find-in-mountain-array) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/demisewastaken/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/demisewastaken/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/demisewastaken/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0877-stone-game](https://github.com/demisewastaken/DSA/tree/master/0877-stone-game) |
 ## Manacher
 |  |
 | ------- |
@@ -203,4 +206,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/demisewastaken/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/demisewastaken/DSA/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/demisewastaken/DSA/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/demisewastaken/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
