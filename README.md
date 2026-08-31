@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/demisewastaken/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/demisewastaken/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/demisewastaken/DSA/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/demisewastaken/DSA/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/demisewastaken/DSA/tree/master/0342-power-of-four) |
 | [0382-linked-list-random-node](https://github.com/demisewastaken/DSA/tree/master/0382-linked-list-random-node) |
 | [0877-stone-game](https://github.com/demisewastaken/DSA/tree/master/0877-stone-game) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/demisewastaken/DSA/tree/master/0258-add-digits) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/demisewastaken/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String
 |  |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/demisewastaken/DSA/tree/master/0877-stone-game) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/demisewastaken/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
