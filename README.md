@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0707-design-linked-list](https://github.com/demisewastaken/DSA/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/demisewastaken/DSA/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/demisewastaken/DSA/tree/master/0817-linked-list-components) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/demisewastaken/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Reservoir Sampling
 |  |
 | ------- |
