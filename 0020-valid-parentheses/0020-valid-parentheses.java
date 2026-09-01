@@ -1,49 +1,28 @@
+import java.util.Stack;
+
 class Solution {
     public boolean isValid(String s) {
-        if (s.length() % 2 != 0) {
-            return false;
-        }
-
-        char[] stack = new char[s.length()];
-        int stackPointer = -1;
+        Stack<Character> stack = new Stack<>();
 
         for (int i = 0; i < s.length(); i++) {
-            char next = s.charAt(i);
-
-            if (next == ')' || next == '}' || next == ']') {
-                if (stackPointer < 0) {
+            char temp = s.charAt(i);
+            if (temp == '(' || temp == '{' || temp == '[') {
+                stack.push(temp);
+            }else {
+                if (stack.isEmpty()) {
                     return false;
                 }
-
-                switch (next) {
-                    case ')':
-                        if (stack[stackPointer] != '(') {
-                            return false;
-                        }
-                        stackPointer--;
-                        break;
-
-                    case '}':
-                        if (stack[stackPointer] != '{') {
-                            return false;
-                        }
-                        stackPointer--;
-                        break;
-
-                    case ']':
-                        if (stack[stackPointer] != '[') {
-                            return false;
-                        }
-                        stackPointer--;
-                        break;
+                char popped = stack.pop();
+                if ((temp == ')' && popped == '(')
+                    || (temp == '}' && popped == '{')
+                    || (temp == ']' && popped == '[')) {
+                    continue;
+                }else {
+                    return false;
                 }
-
-            } else {
-                stackPointer++;
-                stack[stackPointer] = next;
             }
         }
 
-        return stackPointer == -1;
+        return (stack.isEmpty());
     }
 }
