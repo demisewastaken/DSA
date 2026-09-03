@@ -1,15 +1,14 @@
-import java.util.Arrays;
 class Solution {
     public boolean uniformArray(int[] nums1) {
-        Arrays.sort(nums1);
-        if (nums1[0] % 2 != 0) {
-            return true;
-        }
+        boolean allEven = true;
+        int min = nums1[0];
+
         for (int i = 0; i < nums1.length; i++) {
             if (nums1[i] % 2 != 0) {
-                return false;
+                allEven = false;
             }
+            min = Math.min(min, nums1[i]);
         }
-        return true;
+        return (min % 2 != 0 || allEven);
     }
 }
