@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/demisewastaken/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/demisewastaken/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/demisewastaken/DSA/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/demisewastaken/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/demisewastaken/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/demisewastaken/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/demisewastaken/DSA/tree/master/0189-rotate-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/demisewastaken/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/demisewastaken/DSA/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/demisewastaken/DSA/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/demisewastaken/DSA/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/demisewastaken/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/demisewastaken/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/demisewastaken/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
