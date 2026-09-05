@@ -1,0 +1,16 @@
+class Solution(object):
+    def plusOne(self, digits):
+        """
+        :type digits: List[int]
+        :rtype: List[int]
+        """
+        sum = 0
+        for i in range(len(digits)):
+            sum = sum*10 + digits[i]
+        
+        sum = str(sum+1)
+        plusOne = []
+        for j in range(len(sum)):
+            plusOne.append(int(sum[j]))
+
+        return plusOne
