@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0342-power-of-four](https://github.com/demisewastaken/DSA/tree/master/0342-power-of-four) |
 | [0382-linked-list-random-node](https://github.com/demisewastaken/DSA/tree/master/0382-linked-list-random-node) |
 | [0877-stone-game](https://github.com/demisewastaken/DSA/tree/master/0877-stone-game) |
+| [1154-day-of-the-year](https://github.com/demisewastaken/DSA/tree/master/1154-day-of-the-year) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/demisewastaken/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/demisewastaken/DSA/tree/master/2235-add-two-integers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/demisewastaken/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/demisewastaken/DSA/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/demisewastaken/DSA/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/demisewastaken/DSA/tree/master/0844-backspace-string-compare) |
+| [1154-day-of-the-year](https://github.com/demisewastaken/DSA/tree/master/1154-day-of-the-year) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/demisewastaken/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String Matching
 |  |
