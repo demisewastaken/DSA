@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/demisewastaken/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/demisewastaken/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/demisewastaken/DSA/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/demisewastaken/DSA/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/demisewastaken/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/demisewastaken/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0817-linked-list-components](https://github.com/demisewastaken/DSA/tree/master/0817-linked-list-components) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0058-length-of-last-word](https://github.com/demisewastaken/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/demisewastaken/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/demisewastaken/DSA/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/demisewastaken/DSA/tree/master/0290-word-pattern) |
 | [0796-rotate-string](https://github.com/demisewastaken/DSA/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/demisewastaken/DSA/tree/master/0844-backspace-string-compare) |
 | [1154-day-of-the-year](https://github.com/demisewastaken/DSA/tree/master/1154-day-of-the-year) |
