@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1095-find-in-mountain-array](https://github.com/demisewastaken/DSA/tree/master/1095-find-in-mountain-array) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/demisewastaken/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/demisewastaken/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1929-concatenation-of-array](https://github.com/demisewastaken/DSA/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/demisewastaken/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/demisewastaken/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/demisewastaken/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/demisewastaken/DSA/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/demisewastaken/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/demisewastaken/DSA/tree/master/0844-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/demisewastaken/DSA/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/demisewastaken/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String
 |  |
