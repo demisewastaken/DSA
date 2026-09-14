@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/demisewastaken/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/demisewastaken/DSA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/demisewastaken/DSA/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/demisewastaken/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/demisewastaken/DSA/tree/master/0342-power-of-four) |
 | [0382-linked-list-random-node](https://github.com/demisewastaken/DSA/tree/master/0382-linked-list-random-node) |
 | [0877-stone-game](https://github.com/demisewastaken/DSA/tree/master/0877-stone-game) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/demisewastaken/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/demisewastaken/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/demisewastaken/DSA/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/demisewastaken/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/demisewastaken/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/demisewastaken/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/demisewastaken/DSA/tree/master/0682-baseball-game) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/demisewastaken/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/demisewastaken/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/demisewastaken/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/demisewastaken/DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/demisewastaken/DSA/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/demisewastaken/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/demisewastaken/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/demisewastaken/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/demisewastaken/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/demisewastaken/DSA/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/demisewastaken/DSA/tree/master/0268-missing-number) |
 | [1095-find-in-mountain-array](https://github.com/demisewastaken/DSA/tree/master/1095-find-in-mountain-array) |
 ## Interactive
 |  |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/demisewastaken/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/demisewastaken/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/demisewastaken/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/demisewastaken/DSA/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -245,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/demisewastaken/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/demisewastaken/DSA/tree/master/0342-power-of-four) |
 ## Backtracking
 |  |
