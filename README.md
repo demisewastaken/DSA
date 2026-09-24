@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1154-day-of-the-year](https://github.com/demisewastaken/DSA/tree/master/1154-day-of-the-year) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/demisewastaken/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/demisewastaken/DSA/tree/master/2235-add-two-integers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/demisewastaken/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/demisewastaken/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/demisewastaken/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/demisewastaken/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/demisewastaken/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/demisewastaken/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/demisewastaken/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/demisewastaken/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/demisewastaken/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/demisewastaken/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/demisewastaken/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
