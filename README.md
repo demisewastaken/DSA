@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/demisewastaken/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/demisewastaken/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/demisewastaken/DSA/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/demisewastaken/DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/demisewastaken/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/demisewastaken/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/demisewastaken/DSA/tree/master/0198-house-robber) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/demisewastaken/DSA/tree/master/0015-3sum) |
+| [0164-maximum-gap](https://github.com/demisewastaken/DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/demisewastaken/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/demisewastaken/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/demisewastaken/DSA/tree/master/0229-majority-element-ii) |
@@ -335,9 +337,18 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/demisewastaken/DSA/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/demisewastaken/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/demisewastaken/DSA/tree/master/0347-top-k-frequent-elements) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/demisewastaken/DSA/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/demisewastaken/DSA/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
