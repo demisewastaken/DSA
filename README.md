@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/demisewastaken/DSA/tree/master/0877-stone-game) |
 | [1095-find-in-mountain-array](https://github.com/demisewastaken/DSA/tree/master/1095-find-in-mountain-array) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/demisewastaken/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/demisewastaken/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/demisewastaken/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/demisewastaken/DSA/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/demisewastaken/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/demisewastaken/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/demisewastaken/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0817-linked-list-components](https://github.com/demisewastaken/DSA/tree/master/0817-linked-list-components) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/demisewastaken/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/demisewastaken/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/demisewastaken/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/demisewastaken/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0796-rotate-string](https://github.com/demisewastaken/DSA/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/demisewastaken/DSA/tree/master/0844-backspace-string-compare) |
 | [1154-day-of-the-year](https://github.com/demisewastaken/DSA/tree/master/1154-day-of-the-year) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/demisewastaken/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2288-apply-discount-to-prices](https://github.com/demisewastaken/DSA/tree/master/2288-apply-discount-to-prices) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/demisewastaken/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/demisewastaken/DSA/tree/master/3498-reverse-degree-of-a-string) |
