@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0844-backspace-string-compare](https://github.com/demisewastaken/DSA/tree/master/0844-backspace-string-compare) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/demisewastaken/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/demisewastaken/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/demisewastaken/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/demisewastaken/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0844-backspace-string-compare](https://github.com/demisewastaken/DSA/tree/master/0844-backspace-string-compare) |
 | [1154-day-of-the-year](https://github.com/demisewastaken/DSA/tree/master/1154-day-of-the-year) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/demisewastaken/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/demisewastaken/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/demisewastaken/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2288-apply-discount-to-prices](https://github.com/demisewastaken/DSA/tree/master/2288-apply-discount-to-prices) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/demisewastaken/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/demisewastaken/DSA/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/demisewastaken/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/demisewastaken/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
