@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/demisewastaken/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/demisewastaken/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/demisewastaken/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/demisewastaken/DSA/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/demisewastaken/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/demisewastaken/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/demisewastaken/DSA/tree/master/0205-isomorphic-strings) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/demisewastaken/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/demisewastaken/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/demisewastaken/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/demisewastaken/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/demisewastaken/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/demisewastaken/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/demisewastaken/DSA/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/demisewastaken/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/demisewastaken/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Floyd's Cycle Finding Algorithm
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/demisewastaken/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/demisewastaken/DSA/tree/master/0022-generate-parentheses) |
 ## Minimax
 |  |
 | ------- |
