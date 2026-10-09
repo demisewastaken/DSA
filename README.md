@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0682-baseball-game](https://github.com/demisewastaken/DSA/tree/master/0682-baseball-game) |
 | [0817-linked-list-components](https://github.com/demisewastaken/DSA/tree/master/0817-linked-list-components) |
 | [0877-stone-game](https://github.com/demisewastaken/DSA/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/demisewastaken/DSA/tree/master/0896-monotonic-array) |
 | [1095-find-in-mountain-array](https://github.com/demisewastaken/DSA/tree/master/1095-find-in-mountain-array) |
 | [1109-corporate-flight-bookings](https://github.com/demisewastaken/DSA/tree/master/1109-corporate-flight-bookings) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/demisewastaken/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
