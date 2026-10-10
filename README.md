@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/demisewastaken/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/demisewastaken/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/demisewastaken/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/demisewastaken/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/demisewastaken/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/demisewastaken/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/demisewastaken/DSA/tree/master/0682-baseball-game) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/demisewastaken/DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/demisewastaken/DSA/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/demisewastaken/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/demisewastaken/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/demisewastaken/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/demisewastaken/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/demisewastaken/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/demisewastaken/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/demisewastaken/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/demisewastaken/DSA/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/demisewastaken/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/demisewastaken/DSA/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/demisewastaken/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/demisewastaken/DSA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/demisewastaken/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/demisewastaken/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1095-find-in-mountain-array](https://github.com/demisewastaken/DSA/tree/master/1095-find-in-mountain-array) |
 ## Interactive
 |  |
@@ -296,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/demisewastaken/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/demisewastaken/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/demisewastaken/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/demisewastaken/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
