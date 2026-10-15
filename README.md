@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/demisewastaken/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/demisewastaken/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/demisewastaken/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/demisewastaken/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/demisewastaken/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/demisewastaken/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/demisewastaken/DSA/tree/master/0682-baseball-game) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0290-word-pattern](https://github.com/demisewastaken/DSA/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/demisewastaken/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/demisewastaken/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/demisewastaken/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/demisewastaken/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/demisewastaken/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/demisewastaken/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/demisewastaken/DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/demisewastaken/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/demisewastaken/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/demisewastaken/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0844-backspace-string-compare](https://github.com/demisewastaken/DSA/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/demisewastaken/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/demisewastaken/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/demisewastaken/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/demisewastaken/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1095-find-in-mountain-array](https://github.com/demisewastaken/DSA/tree/master/1095-find-in-mountain-array) |
 ## Interactive
 |  |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/demisewastaken/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/demisewastaken/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/demisewastaken/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/demisewastaken/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/demisewastaken/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
