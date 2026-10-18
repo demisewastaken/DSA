@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/demisewastaken/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/demisewastaken/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/demisewastaken/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/demisewastaken/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/demisewastaken/DSA/tree/master/0682-baseball-game) |
 | [0817-linked-list-components](https://github.com/demisewastaken/DSA/tree/master/0817-linked-list-components) |
 | [0877-stone-game](https://github.com/demisewastaken/DSA/tree/master/0877-stone-game) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/demisewastaken/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/demisewastaken/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/demisewastaken/DSA/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/demisewastaken/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0817-linked-list-components](https://github.com/demisewastaken/DSA/tree/master/0817-linked-list-components) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/demisewastaken/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/demisewastaken/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/demisewastaken/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/demisewastaken/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/demisewastaken/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/demisewastaken/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/demisewastaken/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/demisewastaken/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/demisewastaken/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/demisewastaken/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/demisewastaken/DSA/tree/master/0594-longest-harmonious-subsequence) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/demisewastaken/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/demisewastaken/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/demisewastaken/DSA/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/demisewastaken/DSA/tree/master/0594-longest-harmonious-subsequence) |
 ## Memoization
 |  |
 | ------- |
