@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/demisewastaken/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/demisewastaken/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/demisewastaken/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/demisewastaken/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/demisewastaken/DSA/tree/master/0086-partition-list) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/demisewastaken/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/demisewastaken/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/demisewastaken/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/demisewastaken/DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/demisewastaken/DSA/tree/master/0191-number-of-1-bits) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/demisewastaken/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/demisewastaken/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/demisewastaken/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
@@ -452,4 +455,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/demisewastaken/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/demisewastaken/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/demisewastaken/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
