@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/demisewastaken/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/demisewastaken/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/demisewastaken/DSA/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/demisewastaken/DSA/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/demisewastaken/DSA/tree/master/0342-power-of-four) |
 | [0382-linked-list-random-node](https://github.com/demisewastaken/DSA/tree/master/0382-linked-list-random-node) |
 | [0836-rectangle-overlap](https://github.com/demisewastaken/DSA/tree/master/0836-rectangle-overlap) |
@@ -464,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/demisewastaken/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/demisewastaken/DSA/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
