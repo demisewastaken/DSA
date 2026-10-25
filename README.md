@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0836-rectangle-overlap](https://github.com/demisewastaken/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/demisewastaken/DSA/tree/master/0877-stone-game) |
 | [1154-day-of-the-year](https://github.com/demisewastaken/DSA/tree/master/1154-day-of-the-year) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/demisewastaken/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/demisewastaken/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/demisewastaken/DSA/tree/master/2235-add-two-integers) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/demisewastaken/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1095-find-in-mountain-array](https://github.com/demisewastaken/DSA/tree/master/1095-find-in-mountain-array) |
 | [1109-corporate-flight-bookings](https://github.com/demisewastaken/DSA/tree/master/1109-corporate-flight-bookings) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/demisewastaken/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/demisewastaken/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/demisewastaken/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/demisewastaken/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/demisewastaken/DSA/tree/master/1929-concatenation-of-array) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/demisewastaken/DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/demisewastaken/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1109-corporate-flight-bookings](https://github.com/demisewastaken/DSA/tree/master/1109-corporate-flight-bookings) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/demisewastaken/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3903-smallest-stable-index-i](https://github.com/demisewastaken/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/demisewastaken/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
