@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0007-reverse-integer](https://github.com/demisewastaken/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/demisewastaken/DSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/demisewastaken/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/demisewastaken/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/demisewastaken/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/demisewastaken/DSA/tree/master/0070-climbing-stairs) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/demisewastaken/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/demisewastaken/DSA/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/demisewastaken/DSA/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/demisewastaken/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/demisewastaken/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/demisewastaken/DSA/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/demisewastaken/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -486,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/demisewastaken/DSA/tree/master/0319-bulb-switcher) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/demisewastaken/DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
