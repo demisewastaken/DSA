@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2348-number-of-zero-filled-subarrays](https://github.com/demisewastaken/DSA/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/demisewastaken/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/demisewastaken/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2974-minimum-number-game](https://github.com/demisewastaken/DSA/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/demisewastaken/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/demisewastaken/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/demisewastaken/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0682-baseball-game](https://github.com/demisewastaken/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/demisewastaken/DSA/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/demisewastaken/DSA/tree/master/1929-concatenation-of-array) |
+| [2974-minimum-number-game](https://github.com/demisewastaken/DSA/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/demisewastaken/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/demisewastaken/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## String
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0506-relative-ranks](https://github.com/demisewastaken/DSA/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/demisewastaken/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/demisewastaken/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2974-minimum-number-game](https://github.com/demisewastaken/DSA/tree/master/2974-minimum-number-game) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/demisewastaken/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/demisewastaken/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/demisewastaken/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/demisewastaken/DSA/tree/master/0506-relative-ranks) |
+| [2974-minimum-number-game](https://github.com/demisewastaken/DSA/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
