@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/demisewastaken/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0303-range-sum-query-immutable](https://github.com/demisewastaken/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/demisewastaken/DSA/tree/master/0707-design-linked-list) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/demisewastaken/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Queue
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/demisewastaken/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/demisewastaken/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/demisewastaken/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/demisewastaken/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/demisewastaken/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/demisewastaken/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/demisewastaken/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/demisewastaken/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/demisewastaken/DSA/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/demisewastaken/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/demisewastaken/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1109-corporate-flight-bookings](https://github.com/demisewastaken/DSA/tree/master/1109-corporate-flight-bookings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/demisewastaken/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
