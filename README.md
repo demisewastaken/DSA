@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0319-bulb-switcher](https://github.com/demisewastaken/DSA/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/demisewastaken/DSA/tree/master/0342-power-of-four) |
 | [0382-linked-list-random-node](https://github.com/demisewastaken/DSA/tree/master/0382-linked-list-random-node) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/demisewastaken/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/demisewastaken/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/demisewastaken/DSA/tree/master/0877-stone-game) |
 | [1154-day-of-the-year](https://github.com/demisewastaken/DSA/tree/master/1154-day-of-the-year) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/demisewastaken/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/demisewastaken/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/demisewastaken/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/demisewastaken/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/demisewastaken/DSA/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/demisewastaken/DSA/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/demisewastaken/DSA/tree/master/0560-subarray-sum-equals-k) |
