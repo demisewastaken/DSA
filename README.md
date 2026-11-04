@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/demisewastaken/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/demisewastaken/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/demisewastaken/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/demisewastaken/DSA/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/demisewastaken/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/demisewastaken/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/demisewastaken/DSA/tree/master/0567-permutation-in-string) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/demisewastaken/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/demisewastaken/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/demisewastaken/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/demisewastaken/DSA/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/demisewastaken/DSA/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/demisewastaken/DSA/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/demisewastaken/DSA/tree/master/0819-most-common-word) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/demisewastaken/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/demisewastaken/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/demisewastaken/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/demisewastaken/DSA/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/demisewastaken/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/demisewastaken/DSA/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/demisewastaken/DSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/demisewastaken/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/demisewastaken/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/demisewastaken/DSA/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/demisewastaken/DSA/tree/master/0389-find-the-difference) |
 ## Backtracking
 |  |
 | ------- |
