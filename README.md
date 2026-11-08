@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/demisewastaken/DSA/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/demisewastaken/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/demisewastaken/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/demisewastaken/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/demisewastaken/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/demisewastaken/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/demisewastaken/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/demisewastaken/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/demisewastaken/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/demisewastaken/DSA/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/demisewastaken/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/demisewastaken/DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/demisewastaken/DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/demisewastaken/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/demisewastaken/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/demisewastaken/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/demisewastaken/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/demisewastaken/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/demisewastaken/DSA/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/demisewastaken/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/demisewastaken/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/demisewastaken/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/demisewastaken/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/demisewastaken/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/demisewastaken/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/demisewastaken/DSA/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/demisewastaken/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/demisewastaken/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -565,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/demisewastaken/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/demisewastaken/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/demisewastaken/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
