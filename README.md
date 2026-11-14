@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/demisewastaken/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/demisewastaken/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/demisewastaken/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/demisewastaken/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/demisewastaken/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/demisewastaken/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/demisewastaken/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1109-corporate-flight-bookings](https://github.com/demisewastaken/DSA/tree/master/1109-corporate-flight-bookings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/demisewastaken/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/demisewastaken/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/demisewastaken/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/demisewastaken/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/demisewastaken/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/demisewastaken/DSA/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/demisewastaken/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/demisewastaken/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/demisewastaken/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Memoization
 |  |
 | ------- |
