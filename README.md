@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0682-baseball-game](https://github.com/demisewastaken/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/demisewastaken/DSA/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/demisewastaken/DSA/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/demisewastaken/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2974-minimum-number-game](https://github.com/demisewastaken/DSA/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/demisewastaken/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/demisewastaken/DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/demisewastaken/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/demisewastaken/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/demisewastaken/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/demisewastaken/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2288-apply-discount-to-prices](https://github.com/demisewastaken/DSA/tree/master/2288-apply-discount-to-prices) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/demisewastaken/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/demisewastaken/DSA/tree/master/3498-reverse-degree-of-a-string) |
