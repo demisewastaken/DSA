@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/demisewastaken/DSA/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/demisewastaken/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/demisewastaken/DSA/tree/master/0257-binary-tree-paths) |
+| [0797-all-paths-from-source-to-target](https://github.com/demisewastaken/DSA/tree/master/0797-all-paths-from-source-to-target) |
 ## Minimax
 |  |
 | ------- |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0530-minimum-absolute-difference-in-bst](https://github.com/demisewastaken/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/demisewastaken/DSA/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/demisewastaken/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/demisewastaken/DSA/tree/master/0797-all-paths-from-source-to-target) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/demisewastaken/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/demisewastaken/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/demisewastaken/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/demisewastaken/DSA/tree/master/0797-all-paths-from-source-to-target) |
 ## Binary Tree
 |  |
 | ------- |
@@ -676,5 +679,10 @@ A collection of LeetCode questions to ace the coding interview!
 ## Graph Theory
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/demisewastaken/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0997-find-the-town-judge](https://github.com/demisewastaken/DSA/tree/master/0997-find-the-town-judge) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/demisewastaken/DSA/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
