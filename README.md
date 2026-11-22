@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0819-most-common-word](https://github.com/demisewastaken/DSA/tree/master/0819-most-common-word) |
 | [0877-stone-game](https://github.com/demisewastaken/DSA/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/demisewastaken/DSA/tree/master/0896-monotonic-array) |
+| [0997-find-the-town-judge](https://github.com/demisewastaken/DSA/tree/master/0997-find-the-town-judge) |
 | [1095-find-in-mountain-array](https://github.com/demisewastaken/DSA/tree/master/1095-find-in-mountain-array) |
 | [1109-corporate-flight-bookings](https://github.com/demisewastaken/DSA/tree/master/1109-corporate-flight-bookings) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/demisewastaken/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0817-linked-list-components](https://github.com/demisewastaken/DSA/tree/master/0817-linked-list-components) |
 | [0819-most-common-word](https://github.com/demisewastaken/DSA/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/demisewastaken/DSA/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0997-find-the-town-judge](https://github.com/demisewastaken/DSA/tree/master/0997-find-the-town-judge) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/demisewastaken/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/demisewastaken/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/demisewastaken/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -671,4 +673,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/demisewastaken/DSA/tree/master/0173-binary-search-tree-iterator) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/demisewastaken/DSA/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
