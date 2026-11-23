@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0836-rectangle-overlap](https://github.com/demisewastaken/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/demisewastaken/DSA/tree/master/0877-stone-game) |
 | [1154-day-of-the-year](https://github.com/demisewastaken/DSA/tree/master/1154-day-of-the-year) |
+| [1352-product-of-the-last-k-numbers](https://github.com/demisewastaken/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/demisewastaken/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/demisewastaken/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/demisewastaken/DSA/tree/master/2235-add-two-integers) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/demisewastaken/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/demisewastaken/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/demisewastaken/DSA/tree/master/0707-design-linked-list) |
+| [1352-product-of-the-last-k-numbers](https://github.com/demisewastaken/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/demisewastaken/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Queue
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0997-find-the-town-judge](https://github.com/demisewastaken/DSA/tree/master/0997-find-the-town-judge) |
 | [1095-find-in-mountain-array](https://github.com/demisewastaken/DSA/tree/master/1095-find-in-mountain-array) |
 | [1109-corporate-flight-bookings](https://github.com/demisewastaken/DSA/tree/master/1109-corporate-flight-bookings) |
+| [1352-product-of-the-last-k-numbers](https://github.com/demisewastaken/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/demisewastaken/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/demisewastaken/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/demisewastaken/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0523-continuous-subarray-sum](https://github.com/demisewastaken/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/demisewastaken/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1109-corporate-flight-bookings](https://github.com/demisewastaken/DSA/tree/master/1109-corporate-flight-bookings) |
+| [1352-product-of-the-last-k-numbers](https://github.com/demisewastaken/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/demisewastaken/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/demisewastaken/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/demisewastaken/DSA/tree/master/3364-minimum-positive-sum-subarray) |
@@ -685,4 +689,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/demisewastaken/DSA/tree/master/0797-all-paths-from-source-to-target) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/demisewastaken/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
